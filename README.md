@@ -10,4 +10,4 @@ Exploratory Data Analysis\
 Data Visualization\
 Descriptive and Inferential Statistics\
 Outside Research\
-Conclusions and Recommendations
+Conclusions and Recommendations.
