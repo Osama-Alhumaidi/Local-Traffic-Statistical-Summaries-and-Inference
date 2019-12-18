@@ -5,9 +5,9 @@ The dataset is about traffic accidents and driving license in Saudi Arabia, whic
 
 # Contents:
 Datasets Description\
-Data Import & Cleaning. 
-Exploratory Data Analysis
-Data Visualization
-Descriptive and Inferential Statistics
-Outside Research
-Conclusions and Recommendations
+Data Import & Cleaning\ 
+Exploratory Data Analysis\
+Data Visualization\
+Descriptive and Inferential Statistics\
+Outside Research\
+Conclusions and Recommendations\
